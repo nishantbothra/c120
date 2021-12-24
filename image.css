@@ -1,0 +1,122 @@
+@import url(https://fonts.googleapis.com/css2?family=Allura&family=Josefin+Sans:wght@200;300&family=Open+Sans+Condensed:wght@300&family=Poppins:wght@200&display=swap);
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#webpage_details {
+    background-color: darkcyan;
+    height: 45%;
+}
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    padding-top: 10px;
+}
+#mobilenet_division {
+    background-color: white;
+    width: 35%;
+    border-radius: 10px;
+}
+#mobilenet_division h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+#mobilenet_division p {
+    font-family: 'Poppins', sans-serif;
+}
+
+#image_identifier {
+    background-image: url("Untitled\ design.png");
+    background-size: cover;
+    width: 100%;
+    height: 55%;
+    overflow: hidden;
+}
+#object_identifier {
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue;
+    font-weight: bold;
+    font-size: 30px;
+    width: 10%;
+}
+#object_list {
+    white-space: pre-line;
+}
+#accuracy_identifier {
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue;
+    font-weight: bold;
+    font-size: 30px;
+    width: 12%;
+}
+#accuracy_amount {
+    white-space: pre-line;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
